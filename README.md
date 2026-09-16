@@ -89,5 +89,3 @@ Then open the local application in your browser.
 This is an experimental side project built to explore the intersection of:
 
 **Lab Automation × 3D Simulation × Software Engineering × AI-assisted Development**
-
-The goal is not to reproduce the complete Hamilton control environment, but to experiment with new ways of designing, visualizing, and debugging automated laboratory workflows.
